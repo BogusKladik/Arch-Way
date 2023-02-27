@@ -5,5 +5,5 @@ My installation and post-installation setup
 Content
 
 - [Install](Install/main.md)
-- [Post-install](/Arch-Way/Post-install/main.md)
-- [Packages](/Arch-Way/Packages/main.md)
+- [Post-install](Post-install/main.md)
+- [Packages](Packages/main.md)
